@@ -1,0 +1,12 @@
+---
+title: "testfile"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+"I'm learning to use Github... Boom"
